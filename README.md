@@ -1,6 +1,6 @@
 <div align="center">
 
-![](https://files.catbox.moe/8u2ovr.gif)
+![](https://files.catbox.moe/wt39so.gif)
 
 🏳️‍⚧️
 
