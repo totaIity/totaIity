@@ -1,6 +1,6 @@
 <div align="center">
 
-[rmking]() ⠀ [atabook](https://lua.atabook.org/)
+[rentry](https://rentry.co/wipd) ⠀ [atabook](https://lua.atabook.org/)
 
 ![](https://files.catbox.moe/f2q7rb.jpg)
 
